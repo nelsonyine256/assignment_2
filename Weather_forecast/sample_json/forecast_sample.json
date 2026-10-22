@@ -1,0 +1,61 @@
+{
+  "latitude": 37.2072,
+  "longitude": -93.30584,
+  "generationtime_ms": 2.0456314086914062,
+  "utc_offset_seconds": -18000,
+  "timezone": "America/Chicago",
+  "timezone_abbreviation": "GMT-5",
+  "elevation": 397.0,
+  "daily_units": {
+    "time": "iso8601",
+    "weather_code": "wmo code",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm",
+    "wind_speed_10m_max": "km/h"
+  },
+  "daily": {
+    "time": [
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25",
+      "2026-10-26"
+    ],
+    "weather_code": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "temperature_2m_max": [
+      23.9,
+      24.7,
+      24.9,
+      24.6,
+      23.3
+    ],
+    "temperature_2m_min": [
+      8.7,
+      11.7,
+      13.4,
+      14.6,
+      13.5
+    ],
+    "precipitation_sum": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wind_speed_10m_max": [
+      9.7,
+      15.7,
+      15.2,
+      12.0,
+      11.2
+    ]
+  }
+}
